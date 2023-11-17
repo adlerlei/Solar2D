@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"progressView"
+			],
+			[
+				"_SC",
+				"_SCREEN"
+			],
+			[
+				"scene",
+				"sceneGroup"
+			],
+			[
+				"_S",
+				"_SCREEN.CENTER"
+			],
+			[
+				"newT",
+				"native.newTextField()\tnative"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"AUTO",
+				"AUTO_SCREEN_HEIGHT"
+			],
+			[
+				"img",
+				"imgX"
+			],
+			[
+				"AUT",
+				"AUTO_SCREEN_HEIGHT"
+			],
+			[
+				"dnir",
+				"display.newImageRect()\tdisplay"
+			],
+			[
+				"newi",
+				"display.newImageRect()\tdisplay"
+			],
+			[
+				"Capu",
+				"CapsuleToy"
+			],
+			[
+				"nati",
+				"native.systemFont\tnative"
+			],
+			[
+				"if",
+				"ifelse\tif-else statement"
+			],
+			[
+				"row",
+				"rowWidth"
+			],
+			[
+				"onR",
+				"onRowRender"
+			],
+			[
+				"onRo",
+				"onRowTouch"
+			],
+			[
+				"title",
+				"titleBg"
+			],
+			[
+				"new",
+				"display.newImage()\tdisplay"
+			],
+			[
+				"data",
+				"data.A_Pic01_URL"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"remo",
+				"remoteImagesRespons"
+			],
+			[
+				"print",
+				"print()\tglobal"
+			],
+			[
+				"onRow",
+				"onRowRender"
+			],
+			[
+				"tran",
+				"transition.to()\ttransition"
+			],
+			[
+				"network",
+				"network.request()\tnetwork"
+			],
+			[
+				"inser",
+				"insertRow()\tTableViewWidget"
+			],
+			[
+				"newt",
+				"widget.newTableView()\twidget"
+			],
+			[
+				"fontG",
+				"fontGroup"
+			],
+			[
+				"btn",
+				"btnGroup"
+			],
+			[
+				"anima",
+				"animalGroup"
+			],
+			[
+				"comp",
+				"composer.gotoScene()\tcomposer"
+			],
+			[
+				"cloud",
+				"cloudGroup"
+			],
+			[
+				"c",
+				"transition.cancel()\ttransition"
+			],
+			[
+				"rever",
+				"reversez"
+			],
+			[
+				"bird",
+				"birdRotation1"
+			],
+			[
+				"boar",
+				"boardGroup"
+			],
+			[
+				"leaf",
+				"leafAnimationLoopLeft"
+			],
+			[
+				"to",
+				"transition.to()\ttransition"
+			],
+			[
+				"leafA",
+				"leafAnimationLoopRight"
+			],
+			[
+				"timer",
+				"timer.performWithDelay()\ttimer"
+			],
+			[
+				"tt",
+				"transition.to()\ttransition"
+			],
+			[
+				"lea",
+				"leafGroup"
+			],
+			[
+				"bg",
+				"bgGroup"
+			],
+			[
+				"requir",
+				"require()\tpackage"
+			],
+			[
+				"fun",
+				"funOpenCloseBar"
+			],
+			[
+				"_",
+				"_path"
+			],
+			[
+				"input",
+				"inputUser"
+			],
+			[
+				"funI",
+				"funInput"
+			],
+			[
+				"newText",
+				"newTextField"
+			],
+			[
+				"funF",
+				"funForm"
+			],
+			[
+				"newRect",
+				"display.newRect()\tdisplay"
+			],
+			[
+				"natn",
+				"native.newTextField()\tnative"
+			],
+			[
+				"_s",
+				"_SCREEN.CENTER.Y"
+			],
+			[
+				"goblin",
+				"goblinLogo"
+			],
+			[
+				"newImageRect",
+				"display.newImageRect()\tdisplay"
+			],
+			[
+				"dsb",
+				"display.setStatusBar()\tdisplay"
+			],
+			[
+				"op",
+				"funOpenClosebar"
+			],
+			[
+				"newGroup",
+				"display.newGroup()\tdisplay"
+			],
+			[
+				"rem",
+				"composer.removeScene()\tcomposer"
+			],
+			[
+				"label",
+				"labelColor"
+			],
+			[
+				"setF",
+				"setFillColor()\tShapeObject"
+			],
+			[
+				"sys",
+				"native.systemFontBold"
+			],
+			[
+				"font",
+				"fontGroup"
+			],
+			[
+				"smile",
+				"smileVeryGood"
+			],
+			[
+				"audio",
+				"audio.play()\taudio"
+			],
+			[
+				"lo",
+				"audio.loadSound()\taudio"
+			],
+			[
+				"whatBg",
+				"whatBgImg"
+			],
+			[
+				"random",
+				"randomBg"
+			],
+			[
+				"ran",
+				"math.random()\tmath"
+			],
+			[
+				"l",
+				"audio.loadSound()\taudio"
+			],
+			[
+				"play",
+				"playImgTable"
+			],
+			[
+				"remove",
+				"removeSelf()\tDisplayObject"
+			],
+			[
+				"ra",
+				"math.random()\tmath"
+			],
+			[
+				"setstart",
+				"display.setStatusBar()\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/場景轉換特效/scene2.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/場景轉換特效/scene.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/場景轉換特效/main.lua",
+		"/Users/AdlerLei/Downloads/新增素材/文字顏色說明.txt",
+		"/Users/AdlerLei/Documents/GoblinLabOrg/includes/form_1.php",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/CommunityApp/main.lua",
+		"/Users/AdlerLei/Downloads/members.sql",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/CommunityApp/mail.lua",
+		"/Users/AdlerLei/Documents/test/main.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/CommunityApp/official/mainLogin.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/CommunityApp/official/communityId.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/哥布林程式教育學苑/open_Alert/main.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/哥布林程式教育學苑/type(檢查值內容)/main.lua",
+		"/Users/AdlerLei/Library/Mobile Documents/com~apple~CloudDocs/哥布林程式教育學苑/作業/練習場景傳遞值/main.lua"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"goblinGreenBackground_35",
+			"background",
+			"filename"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
